@@ -11,9 +11,9 @@ criaCartao(
 )
 
 criaCartao(
-    'Programação',
-    'O que é uma função?',
-    'Uma função é um bloco de código que executa alguma tarefa'
+    'Culinária',
+    'Quais são os pratos típicos da Itália?',
+    'Os pratos mais típicos da Itália são: Pizza,Ravioli, Spaghetti, Lasagna, Risotto e Arancino'
 )
 
 criaCartao(
